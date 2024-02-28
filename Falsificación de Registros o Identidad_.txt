@@ -1,0 +1,12 @@
+CSIRT-CL
+
+IoC's de Falsificación de Registros o Identidad
+Informe Codigo:
+TLP: Blanco
+Nivel Riesgo: 8FFR24-01647-01
+
+URLs, Dominios y Direcciones IP
+----------------------------------------------------------------
+104.18.3.35
+https://2clic[.]cl/hash/mrcashontoday/nkgznkgznkgznkgznkgz/{mail_base64}
+https://pub-6d14884aef4340699713f62a9bfcaa8d[.]r2.dev/myeubkhjgfsdhfjbvyugjkyutdghcbxgfdhjkhliyufgcxfdhgfjkh.html#
